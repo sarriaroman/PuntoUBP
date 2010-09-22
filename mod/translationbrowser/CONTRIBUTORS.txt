@@ -1,0 +1,16 @@
+CONTRIBUTORS
+
+The translation browser team is:
+
+Pedro Prez <pedroprez@gmail.com>
+http://community.elgg.org/pg/profile/pedroprez
+http://twitter.com/pedroprez
+
+Maximus Marius
+http://community.elgg.org/pg/profile/mariuszekpl
+
+
+Thanks to the following developers for contributing patches for translation browser plugin.
+
+Gustavo Bellino <gushbellino@gmail.com>
+http://community.elgg.org/pg/profile/gushbellino

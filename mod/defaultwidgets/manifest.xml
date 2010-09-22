@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin_manifest>
+        <field key="author" value="Milan Magudia" />
+        <field key="version" value="2.02" />
+        <field key="description" value="This plugin enables an administrator to define a default set of widgets for new users" />
+        <field key="website" value="http://www.hedgehogs.net" />
+        <field key="copyright" value="HedgeHogs" />
+</plugin_manifest>

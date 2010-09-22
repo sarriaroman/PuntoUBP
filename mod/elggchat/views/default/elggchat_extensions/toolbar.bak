@@ -1,0 +1,11 @@
+<div id="user_toolbar">
+
+ 		<a href="<?php echo $vars['url']; ?>pg/photos/owned/<?php echo $_SESSION['user']->username; ?>"><img src="<?php echo $vars['url']; ?>mod/elggchat/_graphics/_icons/photos.png" title="Fotos" /></a>
+        
+        <a href="<?php echo $vars['url']; ?>pg/groups/world/<?php echo $_SESSION['user']->username; ?>"><img src="<?php echo $vars['url']; ?>mod/elggchat/_graphics/_icons/groups.png" title="Grupos" /></a>
+        
+        <a href="<?php echo $vars['url']; ?>pg/profile/<?php echo $_SESSION['user']->username; ?>"><img src="<?php echo $vars['url']; ?>mod/elggchat/_graphics/_icons/profile.png" title="Perfil" /></a>
+        
+        <a href="<?php echo $vars['url']; ?>pg/settings/user/<?php echo $_SESSION['user']->username; ?>"><img src="<?php echo $vars['url']; ?>mod/elggchat/_graphics/_icons/config.png" title="Configuraci&oacute;n" /></a>
+
+</div>

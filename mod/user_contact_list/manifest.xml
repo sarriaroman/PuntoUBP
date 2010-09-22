@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<plugin_manifest>
+  <field key="author" value="Mike Jones" />
+  <field key="version" value="0.2" />
+  <field key="description" value="Adds an option under the administrator screen to view the names and emails of all registered Elgg Users" />
+  <field key="website" value="http://www.facebake.com/" />
+  <field key="copyright" value="(C) Michael T Jones 2008" />
+  <field key="licence" value="GNU Public License version 2" />
+</plugin_manifest>

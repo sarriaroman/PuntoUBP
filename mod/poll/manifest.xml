@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin_manifest>
+        <field key="author" value="John Mellberg and Dr Sanu P Moideen (Team Webgalli)" />
+        <field key="version" value="1.6" />
+        <field key="description" value="Elgg Poll plugin" />
+        <field key="website" value="http://www.syslogicinc.com/ , http://www.webgalli.com/" />
+        <field key="copyright" value="(C) John Mellberg 2009 and Dr Sanu P Moideen" />
+        <field key="licence" value="GNU Public License version 2" />
+        <field key="elgg_version" value="2009030702" />
+		<field key="spanish_translate" value="Julian Somoza" />
+</plugin_manifest>

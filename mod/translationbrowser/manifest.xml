@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin_manifest>
+	<field key="author" value="Translation Browser Team" />
+	<field key="version" value="2.1b" />
+	<field key="description" value="Simple edit translation for Elgg" />
+	<field key="website" value="http://code.google.com/p/translationbrowser/" />
+	<field key="copyright" value="(C) Translation Browser Team 2009" />
+	<field key="elgg_version" value="2009061701" />
+	<field key="licence" value="GNU Public License version 2" />
+</plugin_manifest>
